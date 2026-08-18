@@ -10,7 +10,7 @@ executor = ThreadPoolExecutor(max_workers=10)
 session = requests.Session()
 
 # --- Configuration ---
-API_KEY = "Alone"
+API_KEY = "Maruf"
 BACKGROUND_FILENAME = "outfit.png"
 IMAGE_TIMEOUT = 8
 CANVAS_SIZE = (800, 800)
